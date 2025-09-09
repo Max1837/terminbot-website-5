@@ -126,7 +126,7 @@
         <div class="text-sm text-gray-500">Basic</div>
         <div class="mt-4 text-3xl font-extrabold">€49<span class="text-base font-medium">/Monat</span></div>
         <ul class="mt-4 text-sm text-gray-600 flex-1">
-          <li>Bis zu 300 Anrufe/Monat</li>
+          <li>Bis zu 300 Anrufe/Monat +4ct pro minute</li>
           <li>Calendly-Integration</li>
           <li>E-Mail Support</li>
         </ul>
@@ -137,7 +137,7 @@
         <div class="text-sm text-gray-500">Pro</div>
         <div class="mt-4 text-3xl font-extrabold">€99<span class="text-base font-medium">/Monat</span></div>
         <ul class="mt-4 text-sm text-gray-600 flex-1">
-          <li>Bis zu 1.500 Anrufe/Monat</li>
+          <li>Bis zu 1.500 Anrufe/Monat +2ct pro minute</li>
           <li>Individualisierte Skripte</li>
           <li>Priorisierter Support</li>
         </ul>
